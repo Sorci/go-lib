@@ -16,3 +16,6 @@
 
 # Goland IDE
 .idea/*
+
+# Go mod
+go.sum
