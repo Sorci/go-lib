@@ -1,7 +1,7 @@
-#ORM
+# orm
 A mysql orm is based on gorm.
 
-##Base Usage:
+## Base Usage:
 ```go
     orm := NewMySQL(&Config{
 		DSN: "user:pass@tcp(localhost:3306)/dbname?timeout=5s&readTimeout=5s&writeTimeout=5s&parseTime=true&loc=Local&charset=utf8",
