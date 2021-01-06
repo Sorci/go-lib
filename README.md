@@ -1,5 +1,5 @@
 # go-lib
-common tools for Golang
+Common tools for Golang
 
 ## License
 
